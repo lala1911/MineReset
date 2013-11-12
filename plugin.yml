@@ -1,0 +1,10 @@
+name: MineReset
+main: com.wolvencraft.minereset.MineReset
+website: http://dev.bukkit.org/bukkit-plugins/minereset/
+version: 1.0
+authors: [bitWolfy]
+commands:
+    mine:
+        description: Physics help
+permissions: []
+          
